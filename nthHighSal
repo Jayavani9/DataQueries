@@ -13,3 +13,6 @@ SET M = N-1
       LIMIT 1 OFFSET M
   );
 END
+
+Limit = No of rows to return (count)
+Offset = How many rows to ignore
